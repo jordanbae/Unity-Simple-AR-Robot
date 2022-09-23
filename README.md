@@ -1,6 +1,6 @@
 # RobotPickup
 
-A side project assigned by [@poppod]
+An internship side-project assigned by [@poppod]
 Document: [RobotPickup: Prototype Document(TH)]
 
 ## Summary
